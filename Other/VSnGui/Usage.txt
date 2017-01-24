@@ -1,0 +1,8 @@
+1. run logwindow it will show you what is going on
+2. run vsngui. this program will allow you to configure what virtual serial numbers are for each drive
+3. put the program path to run and hit "Run"
+
+Now if the executed program tries to read the serial number, look at logwindow and see what happens.
+
+You can change the serial number value on the fly. Just do not close VSnGui, instead select the drive, and put a new serial number value and press "SET"
+
